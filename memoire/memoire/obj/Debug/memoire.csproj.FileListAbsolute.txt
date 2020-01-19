@@ -1,0 +1,147 @@
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\Asus\Documents\CS\semester3\C#\memoire\memoire\obj\Debug\memoire.pdb
+H:\memoire\memoire\bin\Debug\memoire.exe.config
+H:\memoire\memoire\bin\Debug\memoire.exe
+H:\memoire\memoire\bin\Debug\memoire.pdb
+H:\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+H:\memoire\memoire\obj\Debug\MainWindow.g.cs
+H:\memoire\memoire\obj\Debug\App.g.cs
+H:\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+H:\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+H:\memoire\memoire\obj\Debug\MainWindow.baml
+H:\memoire\memoire\obj\Debug\memoire.g.resources
+H:\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+H:\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+H:\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+H:\memoire\memoire\obj\Debug\memoire.exe
+H:\memoire\memoire\obj\Debug\memoire.pdb
+H:\memoire4\memoire\memoire\bin\Debug\memoire.exe.config
+H:\memoire4\memoire\memoire\bin\Debug\memoire.exe
+H:\memoire4\memoire\memoire\bin\Debug\memoire.pdb
+H:\memoire4\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+H:\memoire4\memoire\memoire\obj\Debug\MainWindow.g.cs
+H:\memoire4\memoire\memoire\obj\Debug\App.g.cs
+H:\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+H:\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+H:\memoire4\memoire\memoire\obj\Debug\MainWindow.baml
+H:\memoire4\memoire\memoire\obj\Debug\memoire.g.resources
+H:\memoire4\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+H:\memoire4\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+H:\memoire4\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+H:\memoire4\memoire\memoire\obj\Debug\memoire.exe
+H:\memoire4\memoire\memoire\obj\Debug\memoire.pdb
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\bin\Debug\memoire.exe.config
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\bin\Debug\memoire.exe
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\bin\Debug\memoire.pdb
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\MainWindow.g.cs
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\App.g.cs
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\MainWindow.baml
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.g.resources
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.exe
+H:\C# Labs(Soft. Dev. II)\memoire4 updated\memoire4\memoire\memoire\obj\Debug\memoire.pdb
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\Asus\Downloads\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.pdb
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\justi\Desktop\fixedMem\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.pdb
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\justi\Desktop\memoire4 v3\memoire4\memoire\memoire\obj\Debug\memoire.pdb
+C:\Users\justi\Desktop\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\justi\Desktop\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\justi\Desktop\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\justi\Desktop\memoire\memoire\obj\Debug\memoire.pdb
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\bin\Debug\memoire.exe.config
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\bin\Debug\memoire.exe
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\bin\Debug\memoire.pdb
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\MainWindow.g.cs
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\App.g.cs
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\MainWindow.baml
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.g.resources
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.exe
+H:\C# Labs(Soft. Dev. II)\New folder\memoire\memoire\memoire\obj\Debug\memoire.pdb
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\bin\Debug\memoire.exe.config
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\bin\Debug\memoire.exe
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\bin\Debug\memoire.pdb
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.csprojAssemblyReference.cache
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\MainWindow.g.cs
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\App.g.cs
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire_MarkupCompile.cache
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire_MarkupCompile.lref
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\MainWindow.baml
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.g.resources
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.Properties.Resources.resources
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.csproj.GenerateResource.cache
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.csproj.CoreCompileInputs.cache
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.exe
+C:\Users\1837302\Downloads\memoire(FINAL)\memoire\memoire\obj\Debug\memoire.pdb
